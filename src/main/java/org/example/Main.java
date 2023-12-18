@@ -20,6 +20,7 @@ import  java.awt.event.ActionListener;
 
 import static java.lang.System.exit;
 
+//link github: https://github.com/ClarissaProenca/DR3_AT_2_Cliente
 public class Main {
     private static JLabel labelRes;
     public static void main(String[] args) throws InterruptedException{
